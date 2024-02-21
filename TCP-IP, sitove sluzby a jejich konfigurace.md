@@ -1,1 +1,44 @@
-<b>AAAAA<b>
+# TCP/IP, síťové služby a jejich konfigurace
+
+## TCP/IP
+**TCP/IP** je sada internetových protokolů, které **zajišťijí spojení mezi jednotlivými zařízeními** _(počítači, servery, ...)_. Definuje, jak jsou data přenášena, směrována a přijímána přes počítačovou síť. **TCP/IP** se skládá z 2 protokolů **TCP** a **IP**. **IP** je protokol vrstvy síťové _(ISO/OSI)_, který **slouží pro adresování a směrování dat**. **TCP** je protokol vrstvy transportní _(ISO/OSI)_, který **slouží ke komunikace a přenosu dat mezi zařízeními**.
+Celkový **TCP/IP** se potom dělí na 4 vrstvy:
+
+- **Application Layer** _(Poskytuje uživateli a aplikacím rozhraní k přístupu a manipulací se síťovými službami. HTTP, FTP, DNS, ... )_
+- **Transport Layer** _(Zajišťuje spolehlivou komunikaci mezi aplikacemi na různých zařízeních v síti. TCP, UDP, ...)_
+- **Internet Layer** _(Odpovědná za směrování a doručování datových paketů přes různé síťové segmenty. IP a jeho verze, ...)_
+- **Network Access Layer** _(Řídí přenos dat mezi zařízením a síťovým médiem. Ethernet, Wi-Fi, ...)_
+
+![image](https://github.com/ToCatchTo/Maturitni-otazky/assets/119807755/013a6b82-0d8e-4cb3-8e4c-fedf1093a085)
+## Síťové služby
+Síťové služby jsou softwarové funkce a protokoly, které **umožňují komunikaci a sdílení zdrojů mezi zařízeními v počítačové síti**. Služeb je nespočet, zde jsou nějáké pro představu:
+
+- HTTP (Hypertext Transfer Protocol)
+- HTTPS (Hypertext Transfer Protocol Secure)
+- SSH (Secure Shell)
+- DNS (Domain Name System)
+- DHCP (Dynamic Host Configuration Protocol)
+- VPN (Virtual Private Network)
+- FTP (File Transfer Protocol)
+- a mnoho dalších...
+
+**V ciscu je možné si zobrazit všechny dostupné služby v záložce "Services".**
+![image](https://github.com/ToCatchTo/Maturitni-otazky/assets/119807755/19901ce5-383d-4c23-b1f0-c9548a1f8b24)
+
+## Konfigurace
+Ke konfiguraci potřebujete zařízení, které chcete konfigurovat. Poté mít zvolenou službu, kterou chcete na svém zařízení na konfigurovat. Konfigurace se liší podle toho jakou službu chcete nakonfigurovat a také na jakém zařízení se konfiguruje. 
+
+**Příklad konfigurace SSH:**
+- Set the domain name to "cisco.ptk": `ip domain-name cisco.ptk`
+- Generate an RSA key pair for secure communication with a key size of 1024 bits: `crypto key generate rsa`, than tell it to generate `1024` bit long key
+- Create a username "admin" with the password "cisco": `username admin password cisco`
+- Change the SSH version to 2: `ip ssh version 2`
+- Configure VTY (telnet/SSH) access password to "cisco": `line vty 0 15`, `trasport input ssh`, `login local`
+
+**Příklad konfigurace DHCP:**
+https://github.com/Kesims/ps4-resources/blob/main/cisco_packet_tracer/DHCP%20Configuration.md
+
+Příklad konfigurace DNS:
+- Add A Record for the IPv4 pointing to the server itself
+- Add AAAA Record for the IPv6 
+- ![image](https://github.com/ToCatchTo/Maturitni-otazky/assets/119807755/239e4d60-2dd8-4b65-a40b-f2500e1ea5f4)
