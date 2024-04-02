@@ -36,7 +36,8 @@ Ze začátku je pan Kopfrkingl představen jako milý a starostlivý otec svojí
 
 ### Kontext díla: 
 - **Doba:** 60. léta 20. st, průběh studené války
-- **Další autoři této doby:** Karel Čapek, Ota Pavel, Bohumil Hrabal, ... 
+- **Další autoři této doby:** Karel Čapek, Ota Pavel, Bohumil Hrabal, ...
+- **Momentální směry:** Beat generation, Postmodernismus
 
 ### Autor: 
 - narozen 1923 v Praze
