@@ -46,3 +46,4 @@ Ze začátku je pan Kopfrkingl představen jako milý a starostlivý otec svojí
 - extravagantní
 - místo postele spal v rakvi
 - spojoval tragédii s groteskou
+
