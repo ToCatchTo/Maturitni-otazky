@@ -2,7 +2,7 @@
 
 ### Základní informace:
 - **Autor:** Karel Havlíček Borovský
-- **Rok vydání:** přibližně 1600
+- **Rok vydání:** 1854
 - **Literární druh:** Epika
 - **Literární forma:** Poezie
 - **Literární žánr:** Satirická skladba s pointou na konci
@@ -31,6 +31,14 @@
 V jednom irském království vládl král Lávra. Byl hodný a oblíbený, jenomže měl tajemství, že měl oslí uši. Jednoi za rok ho šel nějáký holič oholit a aby tajemství nevyzradil, tak je král vždy potom popravil. Holiči si vždy losovali kdo půjde a když si to vylosoval Kukulín, tak ho král ušetřil, protože mu bylo líto jeho ovdověné matky. Kukulín musel, ale slíbit, že to nikomu neřekne. Potřeboval to někomu říci a tak to řekl vrbě. Když později někdy král pozval muzikanty do království, tak na cestě se muzikantu Červíčkovi rozbila kolíček od basy. Tak si ho šel vyrobit z té vrby. Když přišli do království a začli hrát, nástroj tajemství vyzradil všem. Na královi uši si všichni nakonec zvykli a Kukulín se stal královým stálým holičem.  
 
 ### Kontext díla: 
-
+- **Další autoři této doby:** Charles Dickens, Fjodor Michajlovič Dostojevskij, Gustave Flaubert, ...
+- **Doba:** 50. léta 19. st
+- **Momentální směry:** Romantismus, Realismus
 
 ### Autor: 
+- narozen 1821, poblíž Havlíčkova Brodu ve vesnici Borová _(původ přezdívky Borovský)_
+- zakladatel vlastního novinového nakladatelství
+- známý kritik režimu, vlády
+- souzen, noviny uzavřeny
+- vyhnán do exilu
+- předčasná smrt
