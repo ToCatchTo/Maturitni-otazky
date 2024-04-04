@@ -43,4 +43,10 @@ Parta zrovna dokončila gymnázium a dali na svého učitele a nastoupili do arm
 - blízký k lost generation, zničený válkou
 
 ### Autor: 
-- narodil 1898
+- narodil se 1898 v Německu
+- dobrovolně narukoval v 1. sv. válce
+- později se vrací po zranění
+- mnoho povolání
+- při nástupu fašismu přidán na listinu zakázaných autorů
+- emigrace
+- zemřel na srdeční chorobu
