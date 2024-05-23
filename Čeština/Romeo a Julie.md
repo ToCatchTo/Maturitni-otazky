@@ -45,7 +45,7 @@ Přiběh se odehrává ve Veroně v Itálii. V tomto městě se nacházejí 2 ro
 - **Momentální směry:** Renesance, Humanismus
 
 ### Autor: 
-- 16. st. Anglie
+- 16 st. Anglie
 - jeden z nejznámějších spisovatelů
 - píše často tragédie
 - tragédie postav je způsobena jejich vášní
